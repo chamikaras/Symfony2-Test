@@ -1,0 +1,7 @@
+student_info:
+    resource: "@StudentInfoBundle/Controller"
+    prefix:   /
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
