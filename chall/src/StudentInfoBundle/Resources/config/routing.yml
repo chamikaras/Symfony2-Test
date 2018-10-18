@@ -1,3 +1,0 @@
-student_info_homepage:
-    path:     /
-    defaults: { _controller: StudentInfoBundle:Default:index }
